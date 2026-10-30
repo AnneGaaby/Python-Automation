@@ -55,7 +55,7 @@ Voir [Étude de cas J.A.R.V.I.S.](docs/CASE-STUDY-JARVIS.md).
 
 ### 2. Automatisation d'un serveur Linux
 
-Travail pratique autour d'un serveur Talisman Online dans un environnement Linux. Des tâches ont été automatisées sur Ubuntu et l'environnement serveur a ensuite été documenté autour de services Linux, de leur ordre de démarrage et de leurs vérifications.
+Travail pratique autour d'un serveur Talisman Online dans un environnement Linux. L'environnement serveur a été documenté autour de services Linux, de leur ordre de démarrage et de leurs vérifications.
 
 Les composants serveur et fichiers privés ne sont pas distribués ici.
 
