@@ -2,7 +2,7 @@
 
 ## Contexte
 
-Dans le cadre de mon projet de serveur privé Talisman Online, j'ai travaillé sur des environnements Linux et automatisé certaines tâches liées à l'administration du serveur. Des opérations ont été automatisées sur Ubuntu ; l'environnement serveur documenté par la suite utilisait CentOS 7.9 dans une machine virtuelle.
+Dans le cadre de mon projet de serveur privé Talisman Online, j'ai travaillé sur des environnements Linux et automatisé certaines tâches liées à l'administration du serveur. L'environnement serveur documenté utilisait CentOS 7.9 dans une machine virtuelle. Les commandes et procédures doivent être adaptées à la distribution utilisée.
 
 Cette distinction est importante : les commandes et fichiers de services peuvent varier selon la distribution et la configuration.
 
