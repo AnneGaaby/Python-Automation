@@ -31,6 +31,18 @@ Ce dépôt montre comment j'apprends et applique ces principes dans des environn
 | IA locale et assistants | Expérimentations d'orchestration autour d'un assistant personnel local |
 | Documentation et fiabilité | Procédures reproductibles, gestion des erreurs et séparation de la configuration |
 
+## Exemples Python exécutables
+
+Le dépôt contient maintenant des scripts autonomes, avec des cas d'usage concrets :
+
+- `examples/file_organizer.py` — organisation de fichiers avec aperçu par défaut ;
+- `examples/disk_usage_report.py` — rapport d'espace disque ;
+- `examples/tcp_health_check.py` — vérification d'un port TCP avec adresse fictive de documentation ;
+- `examples/log_analyzer.py` — comptage des niveaux dans un fichier journal ;
+- `examples/backup_to_zip.py` — création d'une archive ZIP horodatée.
+
+Les instructions d'exécution sont dans [Exemples Python](docs/PYTHON-EXAMPLES.md). Des tests unitaires sont disponibles dans `tests/`.
+
 ## Projets et cas pratiques documentés
 
 ### 1. J.A.R.V.I.S. — assistant local et automatisation Windows
@@ -114,7 +126,10 @@ Voir [SECURITY.md](SECURITY.md).
 Python-Automation/
 ├── README.md
 ├── SECURITY.md
+├── examples/
+├── tests/
 └── docs/
+    ├── PYTHON-EXAMPLES.md
     ├── CASE-STUDY-JARVIS.md
     ├── LINUX-SERVER-AUTOMATION.md
     ├── POWERSHELL-WINDOWS.md
